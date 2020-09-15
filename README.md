@@ -1,5 +1,6 @@
 
 ### Привет всем 👋, меня зовут Сергей  :trollface:
+
  Я разработчик на С++ #00599C
 
 ---
@@ -8,9 +9,9 @@
 
 :computer: - <code>Программирование</code>
 
-:notebook: - Stack Overflow
+:notebook: - <code>Stack Overflow</code>
 
-:pray: - Йога
+:pray: - <code>Йога</code>
 
 
 <!--
