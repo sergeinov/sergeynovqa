@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)] (https://braydoncoyer.dev)
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 ### Привет всем 👋, меня зовут Сергей  :trollface:
 
  Я  junior разработчик на С++ :computer:
