@@ -1,4 +1,4 @@
-(https://braydoncoyer.dev)
+/nodeping/status/:checkUuid?down_color=lightgrey&down_message=offline&up_color=blue&up_message=online
 ### Привет всем 👋, меня зовут Сергей  :trollface:
 
  Я  junior разработчик на С++ :computer:
