@@ -19,4 +19,4 @@
 </a>
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergeyValue&repo=cat_say)](https://github.com/sergeyValue/cat_say)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
