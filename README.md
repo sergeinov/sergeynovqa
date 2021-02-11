@@ -7,7 +7,7 @@
 
 Мои увлечения:
 
-:computer: - <code>Программирование</code>
+:computer: - <code>World of Warcraft</code>
 
 :notebook: - <code>YouTube</code>
 
