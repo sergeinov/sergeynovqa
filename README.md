@@ -1,4 +1,4 @@
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)]
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)] (https://braydoncoyer.dev)
 ### Привет всем 👋, меня зовут Сергей  :trollface:
 
  Я  junior разработчик на С++ :computer:
@@ -14,3 +14,6 @@
 :pray: - <code>Прогулки</code>
 
 ---
+<a href="https://github.com/braydoncoyer/ng-limeade">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
