@@ -19,4 +19,4 @@
 </a>
 </br>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergeyValue&repo=console_RPG_Lioness)](https://github.com/sergeyValue/console_RPG_Lioness)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sergeyValue&repo=cat_say)](https://github.com/sergeyValue/cat_say)
