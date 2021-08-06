@@ -11,7 +11,9 @@
 
 :notebook: - <code>YouTube</code>
 
-:pray: - <code>Прогулки</code>
+:pray: - <code>Йога</code>
+
+:deciduous_tree: - <code>Прогулки на природе</code>
 
 ---
 <a href="https://github.com/sergeyValue">
